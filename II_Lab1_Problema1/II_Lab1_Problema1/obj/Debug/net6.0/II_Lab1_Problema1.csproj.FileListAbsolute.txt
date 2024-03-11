@@ -1,0 +1,15 @@
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\bin\Debug\net6.0\II_Lab1_Problema1.exe
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\bin\Debug\net6.0\II_Lab1_Problema1.deps.json
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\bin\Debug\net6.0\II_Lab1_Problema1.runtimeconfig.json
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\bin\Debug\net6.0\II_Lab1_Problema1.dll
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\bin\Debug\net6.0\ref\II_Lab1_Problema1.dll
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\bin\Debug\net6.0\II_Lab1_Problema1.pdb
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.csproj.AssemblyReference.cache
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.AssemblyInfoInputs.cache
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.AssemblyInfo.cs
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.csproj.CoreCompileInputs.cache
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.dll
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\ref\II_Lab1_Problema1.dll
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.pdb
+D:\A.Informatica_Industriala\II_Lab1_Problema1\II_Lab1_Problema1\obj\Debug\net6.0\II_Lab1_Problema1.genruntimeconfig.cache
