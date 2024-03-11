@@ -1,0 +1,14 @@
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\bin\Debug\net6.0\II_Lab1_P3.exe
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\bin\Debug\net6.0\II_Lab1_P3.deps.json
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\bin\Debug\net6.0\II_Lab1_P3.runtimeconfig.json
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\bin\Debug\net6.0\II_Lab1_P3.dll
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\bin\Debug\net6.0\ref\II_Lab1_P3.dll
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\bin\Debug\net6.0\II_Lab1_P3.pdb
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.GeneratedMSBuildEditorConfig.editorconfig
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.AssemblyInfoInputs.cache
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.AssemblyInfo.cs
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.csproj.CoreCompileInputs.cache
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.dll
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\ref\II_Lab1_P3.dll
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.pdb
+D:\A.Informatica_Industriala\II_Lab1_P3\II_Lab1_P3\obj\Debug\net6.0\II_Lab1_P3.genruntimeconfig.cache
