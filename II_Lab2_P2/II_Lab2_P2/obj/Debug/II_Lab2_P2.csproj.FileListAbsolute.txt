@@ -1,0 +1,11 @@
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\bin\Debug\II_Lab2_P2.exe.config
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\bin\Debug\II_Lab2_P2.exe
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\bin\Debug\II_Lab2_P2.pdb
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.csproj.SuggestedBindingRedirects.cache
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.Form1.resources
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.Properties.Resources.resources
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.csproj.GenerateResource.cache
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.csproj.CoreCompileInputs.cache
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.exe
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.pdb
+D:\A.Informatica_Industriala\II_Lab2_P2\II_Lab2_P2\obj\Debug\II_Lab2_P2.csproj.AssemblyReference.cache
