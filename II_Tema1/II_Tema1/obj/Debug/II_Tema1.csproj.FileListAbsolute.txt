@@ -1,0 +1,11 @@
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\bin\Debug\II_Tema1.exe.config
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\bin\Debug\II_Tema1.exe
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\bin\Debug\II_Tema1.pdb
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.csproj.SuggestedBindingRedirects.cache
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.Form1.resources
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.Properties.Resources.resources
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.csproj.GenerateResource.cache
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.csproj.CoreCompileInputs.cache
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.exe
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.pdb
+D:\A.Informatica_Industriala\II_Tema1\II_Tema1\obj\Debug\II_Tema1.csproj.AssemblyReference.cache
